@@ -1,0 +1,57 @@
+body {
+  background: rgba(0, 0, 0, 0.8);
+  color: rgb(255, 237, 215);
+  font-family: "Montserrat", sans-serif;
+  margin: 25px;
+}
+
+h1 {
+  color: rgba(255, 255, 255, 1);
+}
+
+h2 {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+h2:hover {
+  color: rgb(161, 252, 161);
+}
+
+p {
+  text-align: justify;
+}
+
+a {
+  color: rgba(255, 255, 255, 0.904);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgba(0, 255, 255, 0.856);
+  text-decoration: underline;
+}
+
+a img:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 9px;
+}
+
+footer {
+  text-align: center;
+}
+
+.img_centro {
+  border-radius: 100px;
+}
+
+.foto-perfil img {
+  border-radius: 80px;
+  height: 300px;
+  width: 1700px;
+}
+
+.foto-perfil {
+  text-align: center;
+  margin: 0px, 30px;
+  padding: 0px;
+}
